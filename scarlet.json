@@ -1,12 +1,12 @@
 {
   "META": {
-    "repoName": "Scarlet Repo",
+    "repoName": "Boo Repo",
     "repoIcon": "https://usescarlet.com/favicon.png"
   },
   "Games": [
     {
-      "name": "iPogo",
-      "version": "0.329.2",
+      "name": "Disney Now",
+      "version": "10.44.0",
       "down": "https://ipogo.app/download/ipogo-3.5.2.ipa",
       "category": "Hacked Games",
       "description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
